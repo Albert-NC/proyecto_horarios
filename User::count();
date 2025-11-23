@@ -1,0 +1,100 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#6594
+    [34mall[39m: [
+      [34;4mApp\Models\User[39;24m {#6562
+        [34mid[39m: [35m2[39m,
+        [34mcodigo[39m: "[32m000000DOC001[39m",
+        [34mname[39m: "[32mABANTO CORCUERA MANUEL[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6561
+        [34mid[39m: [35m3[39m,
+        [34mcodigo[39m: "[32m000000DOC002[39m",
+        [34mname[39m: "[32mALVARADO RAMOS JORGE LUIS[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6560
+        [34mid[39m: [35m4[39m,
+        [34mcodigo[39m: "[32m000000DOC003[39m",
+        [34mname[39m: "[32mAPAZA CHAVEZ WILMER AUFR...[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6559
+        [34mid[39m: [35m5[39m,
+        [34mcodigo[39m: "[32m000000DOC004[39m",
+        [34mname[39m: "[32mBRAVO ESCALANTE JORGE DAV...[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6558
+        [34mid[39m: [35m6[39m,
+        [34mcodigo[39m: "[32m000000DOC005[39m",
+        [34mname[39m: "[32mCAJACHUAN TERRONES DE C...[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6557
+        [34mid[39m: [35m7[39m,
+        [34mcodigo[39m: "[32m000000DOC006[39m",
+        [34mname[39m: "[32mCASTILLO DIESTRA CARLOS E...[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6556
+        [34mid[39m: [35m8[39m,
+        [34mcodigo[39m: "[32m000000DOC007[39m",
+        [34mname[39m: "[32mCRUZ FLORIÁN IRIS ÁUREA[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6555
+        [34mid[39m: [35m9[39m,
+        [34mcodigo[39m: "[32m000000DOC008[39m",
+        [34mname[39m: "[32mCRUZ SILVA JOSÉ GABRIEL[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6554
+        [34mid[39m: [35m10[39m,
+        [34mcodigo[39m: "[32m000000DOC009[39m",
+        [34mname[39m: "[32mDIAZ PULIDO JOSE ARTURO[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6553
+        [34mid[39m: [35m11[39m,
+        [34mcodigo[39m: "[32m000000DOC010[39m",
+        [34mname[39m: "[32mGOMEZ MORALES ANTHONY J...[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6552
+        [34mid[39m: [35m12[39m,
+        [34mcodigo[39m: "[32m000000DOC011[39m",
+        [34mname[39m: "[32mGUEVARA RÚIZ RICARDO MAN...[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6551
+        [34mid[39m: [35m13[39m,
+        [34mcodigo[39m: "[32m000000DOC012[39m",
+        [34mname[39m: "[32mGUTIERREZ GUTIERREZ JORG...[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6550
+        [34mid[39m: [35m14[39m,
+        [34mcodigo[39m: "[32m000000DOC013[39m",
+        [34mname[39m: "[32mMENDOZA TORRES EDWIN RA...[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6549
+        [34mid[39m: [35m15[39m,
+        [34mcodigo[39m: "[32m000000DOC014[39m",
+        [34mname[39m: "[32mPACHECO TORRES JUAN FRA...[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6548
+        [34mid[39m: [35m16[39m,
+        [34mcodigo[39m: "[32m000000DOC015[39m",
+        [34mname[39m: "[32mPEDRO HUAMAN LIZ SOFIA RA...[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6547
+        [34mid[39m: [35m17[39m,
+        [34mcodigo[39m: "[32m000000DOC016[39m",
+        [34mname[39m: "[32mPERALTA LUJAN JOSE LUIS[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6546
+        [34mid[39m: [35m18[39m,
+        [34mcodigo[39m: "[32m000000DOC017[39m",
+        [34mname[39m: "[32mPolo Romero Victor Jaime[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6545
+        [34mid[39m: [35m19[39m,
+        [34mcodigo[39m: "[32m000000DOC018[39m",
+        [34mname[39m: "[32mQUISPE VARON CELESTINO M...[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#6544
+        [34mid[39m: [35m20[39m,
+        [34mcodigo[39m: "[32m000000DOC019[39m",
+        [34mname[39m: "[32mRODRIGUEZ MELQUIADES JOS...[39m",
+      },
+    ],
+  }
+
